@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I'm the luckiest person in the world, I can't believe I get to call you my girlfriend! 🎉💝💖💝💓",
-        message: "TE AMO MUCHO MÁSQ!!!!!",
+        title: "I'm the luckiest boy in the world, I can't believe I get to call you my girlfriend! 🎉💝💖💝💓",
+        message: "TE AMO MUCHO MÁS!!!!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
